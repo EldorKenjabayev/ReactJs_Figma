@@ -40,8 +40,8 @@ export default function Shop() {
         >
           <img
             style={{ width: "128px", height: "128px" }}
-            src="https://uzum.uz/static/img/shopocat.490a4a1.png"
-            alt="img"
+            src="https://uzum.uz/static/img/shopocat.8cee444.png"
+            alt="#"
           />
           <Typography sx={{ fontSize: "22px", fontWeight: 600 }}>
             В корзине пока нет товаров
